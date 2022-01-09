@@ -1,9 +1,7 @@
-import React from 'react'
-import Navbar from '../../Components/FrequentComponents/navbar'
-import Footer from '../../Components/FrequentComponents/footer'
+import React from 'react'oter'
 import { Button, Grid,  Typography } from '@mui/material'
 import {  LockClock} from '@mui/icons-material'
-import "../Buyer_details/buyer_details.scss";
+import "./buyer_details.scss"
 import PersonIcon from '@mui/icons-material/Person';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import EmailIcon from '@mui/icons-material/Email';
